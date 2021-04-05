@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My first app in Java</string>
+    <string name="button_find_description">Find a color</string>
+    <string name="Description_Temp">Description of temp</string>
+    <string-array name="colors">
+    <item>Red</item>
+    <item>Orange</item>
+    <item>Yellow</item>
+    <item>Green</item>
+    <item>Cyan</item>
+    <item>Blue</item>
+    <item>Purple</item>
+</string-array>
+
+<string-array name="description_of_temp">
+    <item>Красный цвет</item>
+    <item>Оранжевый цвет</item>
+    <item>Жёлтый цвет</item>
+    <item>Зелёный цвет</item>
+    <item>Голубой цвет</item>
+    <item>Синий цвет</item>
+    <item>Фиолетовый цвет</item>
+</string-array>
+
+</resources>
