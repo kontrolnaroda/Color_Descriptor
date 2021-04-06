@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 
 //nbvnbkjbhbkjhb
+//kkk
 public class MainActivity extends AppCompatActivity {
 private Spinner spinnerColors;
 private TextView descriptionOfTemp;
