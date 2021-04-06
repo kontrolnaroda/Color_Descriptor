@@ -8,7 +8,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 
-//nbvnb
+//nbvnbkjbhbkjhb
 public class MainActivity extends AppCompatActivity {
 private Spinner spinnerColors;
 private TextView descriptionOfTemp;
